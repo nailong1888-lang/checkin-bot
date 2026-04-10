@@ -3,7 +3,7 @@ npm install node-telegram-bot-api axios dotenv
 
 BOT_TOKEN=8693738884:AAHwTgSJmk5-IP2sGo54pTPMb56M4MmxR3M
 ADMIN_ID=@shg33
-OPENAI_API_KEY=你的OpenAIKey（可选）
+OPENAI_API_KEY=你的OpenAIKeyprint("hello")
 
 require('dotenv').config();
 const TelegramBot = require('node-telegram-bot-api');
